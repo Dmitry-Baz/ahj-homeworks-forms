@@ -1,5 +1,6 @@
-
-![CI](https://github.com/Dmitry-Baz/ahj-homeworks_forms/actions/workflows/web.yml/badge.svg) 
+https://dmitry-baz.github.io/ahj-homeworks-forms/
+---
+![CI](https://github.com/Dmitry-Baz/ahj-homeworks-forms/actions/workflows/web.yml/badge.svg) 
 # Домашнее задание к занятию «Работа с HTML-формами»
 
 
